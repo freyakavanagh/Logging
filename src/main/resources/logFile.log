@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-22T14:11:39.643228Z</date>
+  <millis>1700662299643</millis>
+  <nanos>228000</nanos>
+  <sequence>0</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>INFO</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is an info message</message>
+</record>
+<record>
+  <date>2023-11-22T14:11:39.843742Z</date>
+  <millis>1700662299843</millis>
+  <nanos>742000</nanos>
+  <sequence>1</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>WARNING</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a warning message</message>
+</record>
+<record>
+  <date>2023-11-22T14:11:39.847751Z</date>
+  <millis>1700662299847</millis>
+  <nanos>751000</nanos>
+  <sequence>2</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>FINE</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This is a fine message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-22T14:35:19.788346Z</date>
+  <millis>1700663719788</millis>
+  <nanos>346000</nanos>
+  <sequence>0</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>INFO</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello, this is an info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-22T14:43:12.853395Z</date>
+  <millis>1700664192853</millis>
+  <nanos>395000</nanos>
+  <sequence>0</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>INFO</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello, this is an info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-22T14:48:20.243865Z</date>
+  <millis>1700664500243</millis>
+  <nanos>865000</nanos>
+  <sequence>0</sequence>
+  <logger>com.sparta.fk.App</logger>
+  <level>INFO</level>
+  <class>com.sparta.fk.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello, this is an info message</message>
+</record>
+</log>
